@@ -1,0 +1,25 @@
+{
+    "name": "HEX",
+    "website": "https://hex.com/",
+    "description": "You can mine HEX by running some code on your computer or phone once and waiting anywhere from 1 to 5555 days, you choose how long. Then you can mint your rewards by running some code once more. You earn larger rewards based on how long you commit to wait. Longer Pays Better. Imagine minting HEX rewards while the price of HEX is going up, you win twice.",
+    "explorer": "https://scan.mypinata.cloud/ipfs/bafybeih3olry3is4e4lzm7rus5l3h6zrphcal5a7ayfkhzm5oivjro2cp4/#/token/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+    "type": "PULSECHAIN",
+    "symbol": "HEX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/HEXcrypto"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/hex-pulsechain/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/hex-pulsechain"
+        }
+    ]
+}

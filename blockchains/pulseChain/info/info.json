@@ -1,0 +1,30 @@
+{
+    "name": "PulseChain",
+    "website": "https://pulsechain.com/",
+    "short_description": "PulseChain is an EVM-compatible layer-1 blockchain, a fork of Ethereum, created by Richard Heart. It aims to provide a more scalable, energy-efficient, and cheaper network than Ethereum by using a delegated proof-of-stake (DPoS) consensus mechanism. Its native token is PLS, used for fees and activating validators, and it supports a decentralized exchange called PulseX for swapping tokens and NFTs.",
+    "description": "PulseChain is an EVM-compatible layer-1 blockchain, a fork of Ethereum, created by Richard Heart. It aims to provide a more scalable, energy-efficient, and cheaper network than Ethereum by using a delegated proof-of-stake (DPoS) consensus mechanism. Its native token is PLS, used for fees and activating validators, and it supports a decentralized exchange called PulseX for swapping tokens and NFTs.",
+    "explorer": "https://scan.mypinata.cloud/ipfs/bafybeih3olry3is4e4lzm7rus5l3h6zrphcal5a7ayfkhzm5oivjro2cp4/#/",
+    "type": "coin",
+    "symbol": "PLS",
+    "rpc_url": "https://rpc.pulsechainrpc.com",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "gitlab",
+            "url": "https://gitlab.com/pulsechaincom"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/pulsechaincom"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/Pulsechain/"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://www.pulsecoin.io/whitepaper"
+        }
+    ]
+}

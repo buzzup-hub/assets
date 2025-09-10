@@ -1,0 +1,17 @@
+{
+    "name": "PulseX Incentive Token",
+    "type": "PULSECHAIN",
+    "symbol": "INC",
+    "decimals": 18,
+    "website": "https://pulsex.com/",
+    "description": "The Incentive Token, with the ticker symbol INC, is a reward token used to 'incentivize' liquidity providers on the decentralized exchange PulseX. The primary function of the INC token is to encourage LPs to pair bridged-in tokens from Ethereum to native tokens on PulseChain.",
+    "explorer": "https://scan.mypinata.cloud/ipfs/bafybeih3olry3is4e4lzm7rus5l3h6zrphcal5a7ayfkhzm5oivjro2cp4/#/token/0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d",
+    "status": "active",
+    "id": "0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/PulseXcom"
+        }
+    ]
+}

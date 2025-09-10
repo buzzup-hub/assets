@@ -1,0 +1,17 @@
+{
+    "name": "PulseX",
+    "website": "https://pulsex.com/",
+    "description": "PulseX enables you to exchange tokens ('PRC20s') on PulseChain for one another. For example you could swap PulseChain's native token PLS for PulseX's token PLSX. It works like Uniswap on Ethereum. Bridges also let people trade currencies from other chains on PulseX.",
+    "explorer": "https://scan.pulsechainfoundation.org/#/token/0x95b303987a60c71504d99aa1b13b4da07b0790ab",
+    "type": "PULSECHAIN",
+    "symbol": "PULSEX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/PulseXcom"
+        }
+    ]
+}
